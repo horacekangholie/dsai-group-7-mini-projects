@@ -1,4 +1,4 @@
-### THIS IS MINI PROJECT FOR SGCARMART
+### GROUP 7 MINI PROJECT
 
 #### Business Context / Data Science Problem
 > Problem Statements
